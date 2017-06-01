@@ -4446,7 +4446,11 @@
       <ownedUseCase xmi:id="_2-9ZAB1DEeeRFfnzLc7zBw" name="Abrir chat" subject="_ufddIB1DEeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="__SEikB6fEeeI4o-H4eOpkw" name="Abrir chat">
           <eAnnotations xmi:id="__ZIM0B6fEeeI4o-H4eOpkw" source="uml2.diagrams">
+<<<<<<< HEAD
             <contents xmi:type="umlnotation:UMLDiagram" xmi:id="__ZOTcB6fEeeI4o-H4eOpkw" type="Activity" element="__SEikB6fEeeI4o-H4eOpkw" name="Gestión de chats-Abrir chat" measurementUnit="Himetric" description="&lt;p>Hablar con la gente, mostrando (de manera aleatoria) uno por uno los usuarios (que aún no se han mostrado) y dando la posibilidad de indicar si le gusta o no. Dando la posibilidad si el me gusta es recíproco de establecer un chat.&lt;/p>">
+=======
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="__ZOTcB6fEeeI4o-H4eOpkw" type="Activity" element="__SEikB6fEeeI4o-H4eOpkw" name="Gestión de chats-Abrir chat" measurementUnit="Himetric">
+>>>>>>> refs/remotes/origin/master
               <children xmi:type="umlnotation:UMLFrame" xmi:id="__ZOTcR6fEeeI4o-H4eOpkw" type="Activity Frame" element="__SEikB6fEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="__ZOTch6fEeeI4o-H4eOpkw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_emwtgB6gEeeI4o-H4eOpkw" element="_emwtoh6gEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
