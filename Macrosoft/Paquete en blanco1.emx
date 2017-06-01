@@ -1422,7 +1422,7 @@
       <ownedUseCase xmi:id="_9y-KgB6jEeeI4o-H4eOpkw" name="Crear evento" subject="_6XVxIB6jEeeI4o-H4eOpkw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_4rGKYB6mEeeI4o-H4eOpkw" name="Crear evento">
           <eAnnotations xmi:id="_4rMRAB6mEeeI4o-H4eOpkw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_4rMRAR6mEeeI4o-H4eOpkw" type="Activity" element="_4rGKYB6mEeeI4o-H4eOpkw" name="Gestión de eventos-Crear evento" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_4rMRAR6mEeeI4o-H4eOpkw" type="Activity" element="_4rGKYB6mEeeI4o-H4eOpkw" name="Gestión de eventos-Crear evento" measurementUnit="Himetric" description="&lt;p>Teniendo un perfil de organizador, crear un nuevo evento para los usuarios.&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_4rMRAh6mEeeI4o-H4eOpkw" type="Activity Frame" element="_4rGKYB6mEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_4rMRAx6mEeeI4o-H4eOpkw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_LE5zQB6nEeeI4o-H4eOpkw" element="_LEzsoB6nEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -1631,7 +1631,7 @@
       <ownedUseCase xmi:id="__Z324B6jEeeI4o-H4eOpkw" name="Anunciar evento" subject="_6XVxIB6jEeeI4o-H4eOpkw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_Jhu3oCksEeehMN8SqftZ_w" name="Anunciar evento">
           <eAnnotations xmi:id="_Jh4BkCksEeehMN8SqftZ_w" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Jh4BkSksEeehMN8SqftZ_w" type="Activity" element="_Jhu3oCksEeehMN8SqftZ_w" name="Gestión de eventos-Anunciar evento" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Jh4BkSksEeehMN8SqftZ_w" type="Activity" element="_Jhu3oCksEeehMN8SqftZ_w" name="Gestión de eventos-Anunciar evento" measurementUnit="Himetric" description="&lt;p>Habiendo creado un nuevo evento, enviar una notificación a los usuarios. Los anuncios de eventos sólo se enviarán una vez y sólo podrá enviarlo el organizador del evento.&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_Jh4BkiksEeehMN8SqftZ_w" type="Activity Frame" element="_Jhu3oCksEeehMN8SqftZ_w" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_Jh4BkyksEeehMN8SqftZ_w" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_PCLBYSksEeehMN8SqftZ_w" element="_PCLBYCksEeehMN8SqftZ_w" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -1962,7 +1962,7 @@
       <ownedUseCase xmi:id="_B28WQB6kEeeI4o-H4eOpkw" name="Seguir organizador" subject="_6XVxIB6jEeeI4o-H4eOpkw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_-XAu4B6nEeeI4o-H4eOpkw" name="Seguir organizador">
           <eAnnotations xmi:id="_-XAu4R6nEeeI4o-H4eOpkw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_-XAu4h6nEeeI4o-H4eOpkw" type="Activity" element="_-XAu4B6nEeeI4o-H4eOpkw" name="Gestión de eventos-Seguir organizador" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_-XAu4h6nEeeI4o-H4eOpkw" type="Activity" element="_-XAu4B6nEeeI4o-H4eOpkw" name="Gestión de eventos-Seguir organizador" measurementUnit="Himetric" description="&lt;p>Permitir seguir a un organizador y ver sus eventos&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_-XAu4x6nEeeI4o-H4eOpkw" type="Activity Frame" element="_-XAu4B6nEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_-XAu5B6nEeeI4o-H4eOpkw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_9h8SoR6oEeeI4o-H4eOpkw" element="_9h8SoB6oEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -2198,7 +2198,7 @@
       <ownedUseCase xmi:id="_FA1fYB6kEeeI4o-H4eOpkw" name="Ver asistentes" subject="_6XVxIB6jEeeI4o-H4eOpkw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_rEUO0B6qEeeI4o-H4eOpkw" name="Ver asistentes">
           <eAnnotations xmi:id="_rEUO0R6qEeeI4o-H4eOpkw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_rEUO0h6qEeeI4o-H4eOpkw" type="Activity" element="_rEUO0B6qEeeI4o-H4eOpkw" name="Gestión de eventos-Ver asistentes" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_rEUO0h6qEeeI4o-H4eOpkw" type="Activity" element="_rEUO0B6qEeeI4o-H4eOpkw" name="Gestión de eventos-Ver asistentes" measurementUnit="Himetric" description="&lt;p>Ver cuánta gente participará en un evento próximo&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_rEUO0x6qEeeI4o-H4eOpkw" type="Activity Frame" element="_rEUO0B6qEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_rEUO1B6qEeeI4o-H4eOpkw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_z5RdUR6qEeeI4o-H4eOpkw" element="_z5RdUB6qEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -2295,7 +2295,7 @@
       <ownedUseCase xmi:id="_Iwx74B6kEeeI4o-H4eOpkw" name="Confirmar asistencia" subject="_6XVxIB6jEeeI4o-H4eOpkw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_MuS2IB6rEeeI4o-H4eOpkw" name="Confirmar asistencia">
           <eAnnotations xmi:id="_MuS2IR6rEeeI4o-H4eOpkw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_MuS2Ih6rEeeI4o-H4eOpkw" type="Activity" element="_MuS2IB6rEeeI4o-H4eOpkw" name="Gestión de eventos-Confirmar asistencia" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_MuS2Ih6rEeeI4o-H4eOpkw" type="Activity" element="_MuS2IB6rEeeI4o-H4eOpkw" name="Gestión de eventos-Confirmar asistencia" measurementUnit="Himetric" description="&lt;p>Informar la asistencia o no al evento seleccionado que se ha anunciado en el calendario de la aplicación.&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_MuS2Ix6rEeeI4o-H4eOpkw" type="Activity Frame" element="_MuS2IB6rEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_MuS2JB6rEeeI4o-H4eOpkw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_ZTxI4B6rEeeI4o-H4eOpkw" element="_ZTrCQB6rEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -2453,7 +2453,7 @@
       <ownedUseCase xmi:id="_r-cS4B04EeeRFfnzLc7zBw" name="Crear cuenta" subject="_o7dDAB04EeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="__4CMIB07EeeRFfnzLc7zBw" name="Crear cuenta">
           <eAnnotations xmi:id="__5j2IB07EeeRFfnzLc7zBw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="__5j2IR07EeeRFfnzLc7zBw" type="Activity" element="__4CMIB07EeeRFfnzLc7zBw" name="Gestión de cuentas-Crear cuenta" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="__5j2IR07EeeRFfnzLc7zBw" type="Activity" element="__4CMIB07EeeRFfnzLc7zBw" name="Gestión de cuentas-Crear cuenta" measurementUnit="Himetric" description="&lt;p>Crea una nueva cuenta en la base de datos.&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="__5j2Ih07EeeRFfnzLc7zBw" type="Activity Frame" element="__4CMIB07EeeRFfnzLc7zBw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="__5j2Ix07EeeRFfnzLc7zBw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_UhFTwB08EeeRFfnzLc7zBw" element="_Ug_NIB08EeeRFfnzLc7zBw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -2647,7 +2647,7 @@
       <ownedUseCase xmi:id="_t0-9wB04EeeRFfnzLc7zBw" name="Iniciar sesión" subject="_o7dDAB04EeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_kvNSwB09EeeRFfnzLc7zBw" name="Iniciar sesión">
           <eAnnotations xmi:id="_kvNSwR09EeeRFfnzLc7zBw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_kvNSwh09EeeRFfnzLc7zBw" type="Activity" element="_kvNSwB09EeeRFfnzLc7zBw" name="Gestión de cuentas-Iniciar sesión" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_kvNSwh09EeeRFfnzLc7zBw" type="Activity" element="_kvNSwB09EeeRFfnzLc7zBw" name="Gestión de cuentas-Iniciar sesión" measurementUnit="Himetric" description="&lt;p>Acceder a la aplicación.&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_kvNSwx09EeeRFfnzLc7zBw" type="Activity Frame" element="_kvNSwB09EeeRFfnzLc7zBw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_kvNSxB09EeeRFfnzLc7zBw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_yrKa0B0-EeeRFfnzLc7zBw" element="_yrQhfx0-EeeRFfnzLc7zBw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -2841,7 +2841,7 @@
       <ownedUseCase xmi:id="_2eBQIB04EeeRFfnzLc7zBw" name="Cerrar sesión" subject="_o7dDAB04EeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_TZSd4B0_EeeRFfnzLc7zBw" name="Cerrar sesión">
           <eAnnotations xmi:id="_TZYkgB0_EeeRFfnzLc7zBw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_TZYkgR0_EeeRFfnzLc7zBw" type="Activity" element="_TZSd4B0_EeeRFfnzLc7zBw" name="Gestión de cuentas-Cerrar sesión" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_TZYkgR0_EeeRFfnzLc7zBw" type="Activity" element="_TZSd4B0_EeeRFfnzLc7zBw" name="Gestión de cuentas-Cerrar sesión" measurementUnit="Himetric" description="&lt;p>Cerrar sesión actual&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_TZYkgh0_EeeRFfnzLc7zBw" type="Activity Frame" element="_TZSd4B0_EeeRFfnzLc7zBw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_TZYkgx0_EeeRFfnzLc7zBw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_c0GygR0_EeeRFfnzLc7zBw" element="_c0M5UB0_EeeRFfnzLc7zBw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -3062,7 +3062,7 @@
       <ownedUseCase xmi:id="_7w3CwB04EeeRFfnzLc7zBw" name="Cambiar ajustes" subject="_o7dDAB04EeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_RJiBcB6iEeeI4o-H4eOpkw" name="Cambiar ajustes">
           <eAnnotations xmi:id="_RJoIEB6iEeeI4o-H4eOpkw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_RJoIER6iEeeI4o-H4eOpkw" type="Activity" element="_RJiBcB6iEeeI4o-H4eOpkw" name="Gestión de cuentas-Cambiar ajustes" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_RJoIER6iEeeI4o-H4eOpkw" type="Activity" element="_RJiBcB6iEeeI4o-H4eOpkw" name="Gestión de cuentas-Cambiar ajustes" measurementUnit="Himetric" description="&lt;p>Permite la modificación del idioma, y más.&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_RJoIEh6iEeeI4o-H4eOpkw" type="Activity Frame" element="_RJiBcB6iEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_RJoIEx6iEeeI4o-H4eOpkw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_hkD6MB6iEeeI4o-H4eOpkw" element="_hj9zkB6iEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -3326,7 +3326,7 @@
       <ownedUseCase xmi:id="_-LLwIB04EeeRFfnzLc7zBw" name="Eliminar cuenta" subject="_o7dDAB04EeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_3gUrkB1BEeeRFfnzLc7zBw" name="Eliminar Cuenta">
           <eAnnotations xmi:id="_3gayMB1BEeeRFfnzLc7zBw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_3gayMR1BEeeRFfnzLc7zBw" type="Activity" element="_3gUrkB1BEeeRFfnzLc7zBw" name="Gestión de cuentas-Eliminar cuenta" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_3gayMR1BEeeRFfnzLc7zBw" type="Activity" element="_3gUrkB1BEeeRFfnzLc7zBw" name="Gestión de cuentas-Eliminar cuenta" measurementUnit="Himetric" description="&lt;p>Darse de baja de la aplicación.&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_3gayMh1BEeeRFfnzLc7zBw" type="Activity Frame" element="_3gUrkB1BEeeRFfnzLc7zBw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3gayMx1BEeeRFfnzLc7zBw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_9wlIsR1BEeeRFfnzLc7zBw" element="_9wrPWR1BEeeRFfnzLc7zBw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -3588,7 +3588,7 @@
       <ownedUseCase xmi:id="_KKUboB05EeeRFfnzLc7zBw" name="Personalizar perfil" subject="_o7dDAB04EeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_PgUdgCH7EeemHsPadI-Fcg" name="Personalizar perfil">
           <eAnnotations xmi:id="_PgUdgSH7EeemHsPadI-Fcg" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_PgUdgiH7EeemHsPadI-Fcg" type="Activity" element="_PgUdgCH7EeemHsPadI-Fcg" name="Gestión de cuentas-Personalizar perfil" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_PgUdgiH7EeemHsPadI-Fcg" type="Activity" element="_PgUdgCH7EeemHsPadI-Fcg" name="Gestión de cuentas-Personalizar perfil" measurementUnit="Himetric" description="&lt;p>Cambias la información de tu cuenta. A saber: foto de perfil, fotos, descripción y gustos.&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_PgUdgyH7EeemHsPadI-Fcg" type="Activity Frame" element="_PgUdgCH7EeemHsPadI-Fcg" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_PgUdhCH7EeemHsPadI-Fcg" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_XMdCwSH7EeemHsPadI-Fcg" element="_XMdCwCH7EeemHsPadI-Fcg" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -3782,7 +3782,7 @@
       <ownedUseCase xmi:id="_xKKv4B1DEeeRFfnzLc7zBw" name="Bloquear usuario" subject="_ufddIB1DEeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_WQlB0B1EEeeRFfnzLc7zBw" name="Bloquear usuario">
           <eAnnotations xmi:id="_WQlB0R1EEeeRFfnzLc7zBw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_WQlB0h1EEeeRFfnzLc7zBw" type="Activity" element="_WQlB0B1EEeeRFfnzLc7zBw" name="Gestión de chats-Bloquear usuario" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_WQlB0h1EEeeRFfnzLc7zBw" type="Activity" element="_WQlB0B1EEeeRFfnzLc7zBw" name="Gestión de chats-Bloquear usuario" measurementUnit="Himetric" description="&lt;p>Bloquea toda comunicación con el usuario bloqueado&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_WQlB0x1EEeeRFfnzLc7zBw" type="Activity Frame" element="_WQlB0B1EEeeRFfnzLc7zBw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_WQlB1B1EEeeRFfnzLc7zBw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_-ir-QR1FEeeRFfnzLc7zBw" element="_-ir-QB1FEeeRFfnzLc7zBw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -4044,7 +4044,7 @@
       <ownedUseCase xmi:id="_zYvgQB1DEeeRFfnzLc7zBw" name="Mutear chat" subject="_ufddIB1DEeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_FY3HsB1NEeeRFfnzLc7zBw" name="Mutear chat">
           <eAnnotations xmi:id="_FY5j8B1NEeeRFfnzLc7zBw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_FY5j8R1NEeeRFfnzLc7zBw" type="Activity" element="_FY3HsB1NEeeRFfnzLc7zBw" name="Gestión de chats-Mutear chat" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_FY5j8R1NEeeRFfnzLc7zBw" type="Activity" element="_FY3HsB1NEeeRFfnzLc7zBw" name="Gestión de chats-Mutear chat" measurementUnit="Himetric" description="&lt;p>Dejan de aparecerte notificaciones de un chat en concreto&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_FY5j8h1NEeeRFfnzLc7zBw" type="Activity Frame" element="_FY3HsB1NEeeRFfnzLc7zBw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_FY5j8x1NEeeRFfnzLc7zBw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_OWDsMB1NEeeRFfnzLc7zBw" element="_OWB3AB1NEeeRFfnzLc7zBw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -4227,7 +4227,7 @@
       <ownedUseCase xmi:id="_0tbbQB1DEeeRFfnzLc7zBw" name="Conocer gente" subject="_ufddIB1DEeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_YYtFYCH5EeemHsPadI-Fcg" name="Conocer gente">
           <eAnnotations xmi:id="_YcIz4CH5EeemHsPadI-Fcg" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_YcIz4SH5EeemHsPadI-Fcg" type="Activity" element="_YYtFYCH5EeemHsPadI-Fcg" name="Gestión de chats-Conocer gente" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_YcIz4SH5EeemHsPadI-Fcg" type="Activity" element="_YYtFYCH5EeemHsPadI-Fcg" name="Gestión de chats-Conocer gente" measurementUnit="Himetric" description="&lt;p>Hablar con la gente, mostrando (de manera aleatoria) uno por uno los usuarios (que aún no se han mostrado) y dando la posibilidad de indicar si le gusta o no. Dando la posibilidad si el me gusta es recíproco de establecer un chat.&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_YcIz4iH5EeemHsPadI-Fcg" type="Activity Frame" element="_YYtFYCH5EeemHsPadI-Fcg" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_YcIz4yH5EeemHsPadI-Fcg" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_jgBYECH5EeemHsPadI-Fcg" element="_jfksICH5EeemHsPadI-Fcg" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -4446,11 +4446,7 @@
       <ownedUseCase xmi:id="_2-9ZAB1DEeeRFfnzLc7zBw" name="Abrir chat" subject="_ufddIB1DEeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="__SEikB6fEeeI4o-H4eOpkw" name="Abrir chat">
           <eAnnotations xmi:id="__ZIM0B6fEeeI4o-H4eOpkw" source="uml2.diagrams">
-<<<<<<< HEAD
             <contents xmi:type="umlnotation:UMLDiagram" xmi:id="__ZOTcB6fEeeI4o-H4eOpkw" type="Activity" element="__SEikB6fEeeI4o-H4eOpkw" name="Gestión de chats-Abrir chat" measurementUnit="Himetric" description="&lt;p>Hablar con la gente, mostrando (de manera aleatoria) uno por uno los usuarios (que aún no se han mostrado) y dando la posibilidad de indicar si le gusta o no. Dando la posibilidad si el me gusta es recíproco de establecer un chat.&lt;/p>">
-=======
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="__ZOTcB6fEeeI4o-H4eOpkw" type="Activity" element="__SEikB6fEeeI4o-H4eOpkw" name="Gestión de chats-Abrir chat" measurementUnit="Himetric">
->>>>>>> refs/remotes/origin/master
               <children xmi:type="umlnotation:UMLFrame" xmi:id="__ZOTcR6fEeeI4o-H4eOpkw" type="Activity Frame" element="__SEikB6fEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="__ZOTch6fEeeI4o-H4eOpkw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_emwtgB6gEeeI4o-H4eOpkw" element="_emwtoh6gEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -4601,7 +4597,7 @@
       <ownedUseCase xmi:id="_7f7CwB1DEeeRFfnzLc7zBw" name="Rechazar chat" subject="_ufddIB1DEeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_2mxJ4B6gEeeI4o-H4eOpkw" name="Rechazar chat">
           <eAnnotations xmi:id="_2m3QgB6gEeeI4o-H4eOpkw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2m3QgR6gEeeI4o-H4eOpkw" type="Activity" element="_2mxJ4B6gEeeI4o-H4eOpkw" name="Gestión de chats-Rechazar chat" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2m3QgR6gEeeI4o-H4eOpkw" type="Activity" element="_2mxJ4B6gEeeI4o-H4eOpkw" name="Gestión de chats-Rechazar chat" measurementUnit="Himetric" description="&lt;p>Permite negar el chat que ha solicitado otro usuario ha solicitado al darle “Me gusta” desde la pantalla de selección.&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_2m3Qgh6gEeeI4o-H4eOpkw" type="Activity Frame" element="_2mxJ4B6gEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_2m3Qgx6gEeeI4o-H4eOpkw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_AI1WAR6hEeeI4o-H4eOpkw" element="_AI1WKh6hEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
@@ -4768,7 +4764,7 @@
       <ownedUseCase xmi:id="_-ewLYB1DEeeRFfnzLc7zBw" name="Reportar usuario" subject="_ufddIB1DEeeRFfnzLc7zBw">
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_hxl1UB6hEeeI4o-H4eOpkw" name="Reportar usuario">
           <eAnnotations xmi:id="_hxr78B6hEeeI4o-H4eOpkw" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_hxr78R6hEeeI4o-H4eOpkw" type="Activity" element="_hxl1UB6hEeeI4o-H4eOpkw" name="Gestión de chats-Reportar usuario" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_hxr78R6hEeeI4o-H4eOpkw" type="Activity" element="_hxl1UB6hEeeI4o-H4eOpkw" name="Gestión de chats-Reportar usuario" measurementUnit="Himetric" description="&lt;p>El usuario o administrador considera que el contenido que un usuario en cuestión no cumple con las reglas del servicio, al ver su perfil en la pantalla de selección o al entablar un chat.&lt;/p>">
               <children xmi:type="umlnotation:UMLFrame" xmi:id="_hxr78h6hEeeI4o-H4eOpkw" type="Activity Frame" element="_hxl1UB6hEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hxr78x6hEeeI4o-H4eOpkw" type="ActivityCompartment">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_3LX2UR6hEeeI4o-H4eOpkw" element="_3LX2eR6hEeeI4o-H4eOpkw" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
